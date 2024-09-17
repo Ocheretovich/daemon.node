@@ -53,12 +53,12 @@ Daemon actually re-spawns the current application and runs it again. The only di
 Using this module on older versions of node (or older versions of this module) are not recommended due to how node works internally and the issues it can cause for daemons.
 
 ## Contributors
-[Charlie Robbins](http://nodejitsu.com)  
+[Charlie Robbins](https://github.com/indexzero)  
 [Pedro Teixeira](https://github.com/pgte)  
 [James Halliday](https://github.com/substack)  
 [Zak Taylor](https://github.com/dobl)  
 [Daniel Bartlett](https://github.com/danbuk)  
 [Charlie McConnell](https://github.com/AvianFlu)  
 [Slashed](http://github.com/slashed)  
-[Roman Shtylman](http://github.com/shtylman)  
+[Roman Shtylman](https://github.com/defunctzombie)  
 
